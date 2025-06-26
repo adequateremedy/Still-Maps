@@ -1,2 +1,1 @@
-# MP4-Map
-MP4 Maps 
+# These are the Maps used for the RPG Quick Quests. 
